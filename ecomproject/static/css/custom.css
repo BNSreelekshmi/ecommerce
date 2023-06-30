@@ -1,0 +1,116 @@
+
+.body{
+font-family: 'Bacasime Antique', serif;
+}
+
+/*** navbar***/
+.nav-item{
+    letter-spacing : .2em;
+    font-size : 14px;
+    text-transform :uppercase;
+
+}
+/*** dropdown***/
+
+.dropdown-item{
+ letter-spacing : .2em;
+    font-size : 14px;
+    text-transform :uppercase;
+}
+.my_footer{
+background-color:gray;
+height:100px;
+}
+.my_footer p {
+font-size:12px;
+}
+
+/*** cat page***/
+.my_rclass{
+padding-top:15px;
+}
+.my_rowclass .mx_auto{
+color:#000;
+font-size:12px;}
+
+.my-image{
+height:320px;
+}
+
+
+.my-title{
+font-size:32px;
+text_transform:uppercase;
+font-family:stencil;
+letter-spacing:.2em;
+}
+
+.myimage-padding{
+padding:100px;}
+
+
+.mybottommargin{
+margin-bottom:10px;
+}
+
+.card-body h4 {
+font-size:14px;
+text-transform:uppercase;
+letter-spacing:.2em;
+}
+
+/*** product page ***/
+
+.productrowclass
+{
+padding-top:15px;
+padding-bottom:20px;
+}
+.productrowclass .mx_auto
+{
+color:#000;
+font-size:14px;
+text-decoration:none;
+}
+
+.myproduct{
+font-size:18px;
+text-transform:uppercase;
+letter-spacing:.2em;
+padding-top:20px;
+padding-bottom:20px;
+}
+
+.myproductdesc{
+padding-right:10px;
+}
+
+/*** For search ***/
+.searchtext{
+padding-top:20px;
+}
+
+/*** cart ***/
+.custom_table{
+min-width:400px;
+font-size:14px;
+}
+
+.custom_thead{
+font-weight:normal;
+text_transform:uppercase;
+letter-spacing:.2em;
+background-color:light green;
+}
+.custom_a{
+text-decoration: None;
+}
+
+.custom-button{
+margin-top:5px;
+}
+
+.my-cartimage{
+height:65px;
+width:60px;
+}
